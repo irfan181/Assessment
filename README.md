@@ -1,6 +1,7 @@
 Part A – Conceptual Questions
 
 1. Test Cases for Login Functionality?
+   
 A.
    * Verify login with valid username and password → user should navigate to dashboard
    * Verify login with invalid credentials → error message should be displayed
@@ -8,7 +9,7 @@ A.
    * Verify password is masked
    * Verify login button is clickable
 
-2. Automation Approach for Mobile + Web?
+3. Automation Approach for Mobile + Web?
 A.
    * I will use a common framework with:
    * Selenium WebDriver for web
@@ -19,7 +20,7 @@ A.
    * Run tests on different devices and browsers
    Use TestNG for execution and reporting
 
-3. Automating Login using Appium?
+4. Automating Login using Appium?
 A.
    * Launch mobile browser (Chrome/Safari)
    * Open URL
@@ -28,7 +29,7 @@ A.
    * Click login button
    * Validate success message or next page
    
-4. Automating UI + Mobile + API in One Framework?
+5. Automating UI + Mobile + API in One Framework?
 A.
    * Open browser using WebDriver
    * Navigate to URL
@@ -37,7 +38,7 @@ A.
    * Click login
    * Validate successful login
 
-5. Feature Works on One Mobile but Not Another?
+6. Feature Works on One Mobile but Not Another?
 A.
    * Use a hybrid framework
    * UI → Selenium
@@ -46,7 +47,7 @@ A.
    * Use common reporting and test structure
    * Integrate all tests in one pipeline
    
-6. Feature Works on One Mobile but Not Another?
+7. Feature Works on One Mobile but Not Another?
 A.
      Approach:
    * Check device compatibility
@@ -55,7 +56,7 @@ A.
    * Check screen resolution issues
    * Test on multiple real devices/emulators
    
-7. Debug Failed Test Scenarios?
+8. Debug Failed Test Scenarios?
 A.
    * Check logs and error messages
    * Use screenshots
@@ -63,7 +64,7 @@ A.
    * Validate element locators
    * Check environment issues
    
-8. Database and API Testing Approach?
+9. Database and API Testing Approach?
 A.
    * Validate API response (status, data)
    * Use tools like Postman or automation
