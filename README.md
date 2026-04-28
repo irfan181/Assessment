@@ -8,8 +8,8 @@ A. i) Verify login with valid username and password → user should navigate to 
    v) Verify login button is clickable
 
 2. Automation Approach for Mobile + Web?
-A. I will use a common framework with:
-   Selenium WebDriver for web
+A. * I will use a common framework with:
+   * Selenium WebDriver for web
    Appium for mobile
    Approach:
    Create reusable test cases
