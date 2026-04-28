@@ -1,11 +1,11 @@
 Part A – Conceptual Questions
 
 1. Test Cases for Login Functionality?
-A. i)Verify login with valid username and password → user should navigate to dashboard
-   ii)Verify login with invalid credentials → error message should be displayed
-   iii)Verify login with empty fields → validation message should appear
-   iv)Verify password is masked
-   v)Verify login button is clickable
+A. i) Verify login with valid username and password → user should navigate to dashboard
+   ii) Verify login with invalid credentials → error message should be displayed
+   iii) Verify login with empty fields → validation message should appear
+   iv) Verify password is masked
+   v) Verify login button is clickable
 
 2. Automation Approach for Mobile + Web?
 A. I will use a common framework with:
