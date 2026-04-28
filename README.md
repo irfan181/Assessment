@@ -2,8 +2,7 @@ Part A – Conceptual Questions
 
 1. Test Cases for Login Functionality?
    
-A.
-   * Verify login with valid username and password → user should navigate to dashboard
+A. * Verify login with valid username and password → user should navigate to dashboard
    * Verify login with invalid credentials → error message should be displayed
    * Verify login with empty fields → validation message should appear
    * Verify password is masked
