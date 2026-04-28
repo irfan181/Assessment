@@ -10,11 +10,11 @@ A. i) Verify login with valid username and password → user should navigate to 
 2. Automation Approach for Mobile + Web?
 A. * I will use a common framework with:
    * Selenium WebDriver for web
-   Appium for mobile
+   * Appium for mobile
    Approach:
-   Create reusable test cases
-   Maintain common utilities (like login methods)
-   Run tests on different devices and browsers
+   * Create reusable test cases
+   * Maintain common utilities (like login methods)
+   * Run tests on different devices and browsers
    Use TestNG for execution and reporting
 
 3. Automating Login using Appium?
