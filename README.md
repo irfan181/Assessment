@@ -70,3 +70,19 @@ Part A – Conceptual Questions
    * Verify database values using queries
    * Compare UI data with database data
 
+
+     ## Project Description
+This project automates login functionality using Selenium and Appium.
+
+     ## Tools Used
+- Java
+- Selenium
+- Appium
+- Maven
+
+     ## Test Scenarios
+- Valid login
+- Invalid login
+- UI validation
+- Logout validation
+
