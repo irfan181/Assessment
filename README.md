@@ -86,3 +86,7 @@ This project automates login functionality using Selenium and Appium.
 - UI validation
 - Logout validation
 
+- ## 📄 Selenium Execution Output
+
+[Click here to view PDF](QA_selenium_outputs.pdf)
+
